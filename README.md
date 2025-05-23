@@ -1,2 +1,3 @@
+#OptiFab
 # Optimizing 3D Printing Parameters for Mechanical Performance Using Machine Learning
 This project uses machine learning to analyze how 3D printing parameters affect tensile strength. Based on experimental data from printed specimens, we apply Support Vector Regression (SVR) with LOOCV, feature engineering (SNR, interaction terms), and ranking methods (GRA, DEAR) to build predictive models and identify the most influential factors.

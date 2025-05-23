@@ -1,9 +1,9 @@
 # OptiFab
 Optimizing 3D Printing Parameters Using Machine Learning
-This project investigates the relationship between 3D printing process parameters and the mechanical properties of printed parts, focusing on tensile strength. Using a dataset generated from physical experiments, we apply machine learning to model, analyze, and optimize parameter combinations.
+This project investigates the relationship between 3D printing process parameters and the mechanical properties of printed parts. Using a dataset generated from physical experiments, we apply machine learning to model, analyze, and optimize parameter combinations.
 
 # Project Overview
-Experimental data collected from 3D printed specimens tested for tensile strength.
+Experimental data collected from 3D printed specimens tested.
 
 Dataset includes key printing parameters like layer height, infill percentage, raster angle, and others.
 
